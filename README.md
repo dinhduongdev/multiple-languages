@@ -27,3 +27,9 @@ LANGUAGES = [
 LOCALE_PATHS = [
     BASE_DIR / 'locale',
 ]
+
+
+🌐 2. Dùng trong template và Python
+{% load i18n %}
+<h1>{% trans "Welcome" %}</h1>
+
