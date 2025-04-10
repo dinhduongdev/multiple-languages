@@ -29,7 +29,4 @@ LOCALE_PATHS = [
 ]
 
 
-🌐 2. Dùng trong template và Python
-{% load i18n %}
-<h1>{% trans "Welcome" %}</h1>
-
+## 🌐 2. Dùng trong template và Python
